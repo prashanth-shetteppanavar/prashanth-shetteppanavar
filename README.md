@@ -1,310 +1,500 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=PRASHANTH%20SHETTEPPANAVAR&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           HERO                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Backend-Focused+Software+Engineer;Spring+%7C+Hibernate+%7C+JDBC+%7C+MySQL;Building+Practical+Full-Stack+Applications;Exploring+Local+LLM+Applications" alt="Typing SVG"/>
-</a>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,30:302B63,65:4C1D95,100:7C3AED&height=240&section=header&text=PRASHANTH%20SHETTEPPANAVAR&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=19&descColor=DDD6FE"
+width="100%"
+/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.-Information%20Science%20%26%20Engineering-6366F1?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/CGPA-8.02-7C3AED?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Bengaluru-India-4F46E5?style=for-the-badge&labelColor=111827" />
+<a href="https://git.io/typing-svg">
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Java+Full+Stack+Developer;Backend-Focused+Software+Engineer;Java+%7C+Spring+%7C+Hibernate+%7C+JDBC;MySQL+%7C+React+%7C+REST+APIs;Building+Practical+Software+Products;Exploring+Local+AI+Applications"
+alt="Typing SVG"
+/>
+</a>
 
-<br/><br/>
+<br/>
+<br/>
+
+<!-- PRIMARY LINKS -->
+
+<a href="https://prashanth-portfolio-plum.vercel.app/">
+<img
+src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+/>
+</a>
 
 <a href="https://www.linkedin.com/in/prashanth-shetteppanavar-b680712a3/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img
+src="https://img.shields.io/badge/LINKEDIN-CONNECT-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
 </a>
+
 <a href="https://github.com/prashanth-shetteppanavar">
-<img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img
+src="https://img.shields.io/badge/GITHUB-PROFILE-4F46E5?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
-<br/><br/>
+<a href="mailto:prashantshetteppanavar2004@gmail.com">
+<img
+src="https://img.shields.io/badge/EMAIL-CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"
+/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=prashanth-shetteppanavar&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/prashanth-shetteppanavar?style=for-the-badge&color=7c3aed&labelColor=111827&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/prashanth-shetteppanavar?style=for-the-badge&color=6366f1&labelColor=111827&label=STARS" />
+<a href="https://wa.me/7676315662">
+<img
+src="https://img.shields.io/badge/WHATSAPP-MESSAGE-6D28D9?style=for-the-badge&logo=whatsapp&logoColor=white"
+/>
+</a>
+
+<br/>
+<br/>
+
+<!-- EDUCATION / LOCATION -->
+
+<img
+src="https://img.shields.io/badge/B.E.-Information%20Science%20%26%20Engineering-312E81?style=flat-square"
+/>
+
+<img
+src="https://img.shields.io/badge/CGPA-8.02-4338CA?style=flat-square"
+/>
+
+<img
+src="https://img.shields.io/badge/Bengaluru%2C%20India-4F46E5?style=flat-square"
+/>
+
+<br/>
+<br/>
+
+<!-- PROFILE METRICS -->
+
+<img
+src="https://komarev.com/ghpvc/?username=prashanth-shetteppanavar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
+/>
+
+<img
+src="https://img.shields.io/github/followers/prashanth-shetteppanavar?style=for-the-badge&color=6366F1&labelColor=111827&label=FOLLOWERS"
+/>
+
+<img
+src="https://img.shields.io/github/stars/prashanth-shetteppanavar?style=for-the-badge&color=8B5CF6&labelColor=111827&label=STARS"
+/>
 
 </div>
 
+
 ---
 
-## About
+# `01` · ABOUT ME
 
 I'm a **Java Full Stack Developer** focused on building practical, maintainable software with a strong backend foundation.
 
-My engineering work centers around **Java, Spring, Hibernate/JPA, JDBC, MySQL, RESTful application development, and React**. I enjoy understanding how systems work end-to-end, from database design and backend architecture to user-facing interfaces.
+My primary technical focus is **Java, Spring, Hibernate/JPA, JDBC, MySQL, REST APIs and React**. I enjoy understanding applications end-to-end, from database design and backend architecture to user-facing interfaces.
 
-I'm particularly interested in **product engineering**, where software is built around a real problem rather than technology for its own sake. My projects include healthcare appointment management, decentralized file storage, and local LLM applications.
+I’m particularly interested in **product engineering**, where software is built around a real problem and designed to be useful, maintainable and understandable.
 
-I'm also exploring **AI-assisted development and local AI applications**, with an emphasis on privacy, practical integration, and useful developer experiences.
+Alongside full-stack development, I'm exploring **local AI applications and AI-assisted development**, with a focus on privacy, practical integration and developer experience.
 
-### Open To
+### Engineering Mindset
 
-- Java Developer
-- Java Full Stack Developer
-- Software Developer
-- Software Engineer
-- Backend-focused Full Stack Roles
+```text
+                    REAL PROBLEM
+                         │
+                         ▼
+                 UNDERSTAND THE USER
+                         │
+                         ▼
+                  DESIGN THE SYSTEM
+                         │
+                         ▼
+                   BUILD THE PRODUCT
+                         │
+                         ▼
+                    TEST & IMPROVE
+                         │
+                         ▼
+                       SHIP
+What I Build
+Area	Focus
+Backend Systems	Java, Spring, Hibernate, JDBC, Servlets
+Full-Stack Applications	Java backend + React/frontend development
+Database Systems	MySQL, SQL, relational data management
+AI Applications	Local LLM applications and Ollama integrations
+Developer Tools	Practical tools and automation-oriented applications
+Software Architecture	MVC, DAO and layered application design
+Open To
 
----
+Java Developer · Java Full Stack Developer · Software Developer · Software Engineer
 
-## Tech Stack
+02 · TECHNICAL STACK
+Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> </p>
 
-### Languages
+Java · JavaScript · HTML5 · CSS3
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
+Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=javascript" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> </p>
 
-### Frontend
+React · JavaScript · HTML5 · CSS3 · Responsive UI
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
-</p>
+Backend
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=spring" /> <img src="https://skillicons.dev/icons?i=hibernate" /> </p>
 
-### Backend & Databases
+Core Java · Spring Core · Spring MVC · Hibernate · JPA
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" />
-</p>
+JDBC · Java Servlets · REST APIs · MVC · DAO
 
-**Also:** JDBC • Servlets • JPA • Spring Core • Spring MVC • Oracle SQL • REST APIs
+OOP · Java Collections Framework
 
-### Cloud, DevOps & Tooling
+Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,eclipse" />
-</p>
+MySQL · Oracle SQL · SQL · Relational Database Design
 
----
+Development Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=maven" /> <img src="https://skillicons.dev/icons?i=postman" /> <img src="https://skillicons.dev/icons?i=vscode" /> </p>
 
-## AI / ML Expertise
+Git · GitHub · Maven · Postman · VS Code · Eclipse
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Local LLM Applications | Intermediate | Building interfaces for locally running LLMs using Ollama |
-| AI-Assisted Development | Intermediate | Exploring AI tools and workflows for practical software development |
-| LLM Integration | Intermediate | Working with browser-to-local-model communication and streamed responses |
-| AI Product Engineering | Developing | Exploring how AI capabilities can be integrated into useful software products |
+03 · AI / ML & LOCAL AI
 
----
+My current AI focus is on building practical AI-powered applications, particularly applications that work with locally running language models.
 
-## Featured Projects
+Domain	Focus	Details
+Local LLM Applications	●●●○	Building interfaces for locally running language models
+Ollama Integration	●●●○	Connecting applications with locally hosted models
+LLM Streaming	●●●○	Working with streamed model responses
+AI-Assisted Development	●●●○	Exploring AI-powered development workflows
+AI Product Engineering	●●○○	Exploring practical AI integration into software products
+Current AI Direction
+AI:
+  philosophy: "Practical over flashy"
 
-<details>
-<summary><strong>MediSlot</strong> | Healthcare Appointment Booking Platform</summary>
+  focus:
+    - Local LLM applications
+    - Privacy-first AI experiences
+    - AI-assisted development
+    - Developer tooling
+    - Practical product integration
 
-<br/>
+  current_stack:
+    - React
+    - JavaScript
+    - Ollama
+    - Local LLMs
+04 · FEATURED PROJECTS
+🏥 MediSlot
+<details> <summary><strong>Healthcare Appointment Booking Platform</strong></summary> <br/>
+Overview
 
-A full-stack healthcare appointment booking application designed to simplify appointment management between patients and healthcare providers.
+MediSlot is a full-stack healthcare appointment booking application designed to simplify appointment management between patients and healthcare providers.
 
-| Category | Details |
-|---|---|
-| **Stack** | Java • JDBC • MySQL • HTML • CSS • JavaScript |
-| **Scale** | Full-stack application |
-| **Performance** | Structured backend and database-driven operations |
-| **Security** | Application-level validation and controlled data access |
-| **Impact** | Digitizes and simplifies healthcare appointment workflows |
-| **Repository** | [View Repository](https://github.com/prashanth-shetteppanavar) |
+The project focuses on translating a real-world workflow into a structured software application with backend logic, database interaction and a user-facing interface.
 
-### Engineering Scope
+Technology
+Layer	Technology
+Backend	Java
+Database Connectivity	JDBC
+Database	MySQL
+Frontend	HTML · CSS · JavaScript
+Architecture	MVC · DAO
+Engineering Scope
+Designed Java-based backend application components.
+Implemented database interaction using JDBC and MySQL.
+Applied DAO and MVC patterns.
+Structured application logic around healthcare appointment workflows.
+Focused on maintainable application structure.
+Built around practical user workflows.
+Architecture
+                         USER
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   WEB INTERFACE │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │  JAVA BACKEND   │
+                  └────────┬────────┘
+                           │
+                    ┌──────┴──────┐
+                    │             │
+                    ▼             ▼
+              BUSINESS LOGIC    DAO
+                                  │
+                                  ▼
+                               JDBC
+                                  │
+                                  ▼
+                           ┌────────────┐
+                           │    MYSQL   │
+                           └────────────┘
+Key Areas
 
-- Designed backend application functionality using Java.
-- Implemented database interactions using JDBC and MySQL.
-- Structured application components around practical healthcare workflows.
-- Built the application with a focus on maintainability and real-world usability.
+Java JDBC MySQL MVC DAO SQL
+
+Repository
+
+View MediSlot Repository →
 
 </details>
+🤖 Local AI Chat
+<details> <summary><strong>Private Local LLM Chat Application</strong></summary> <br/>
+Overview
 
-<details>
-<summary><strong>Local AI Chat</strong> | Private Local LLM Interface</summary>
+Local AI Chat is a lightweight React application for interacting directly with locally running Ollama models.
 
-<br/>
+The application follows a local-first approach, allowing users to interact with language models running on their own machine.
 
-A lightweight React-based chat interface for interacting directly with locally running Ollama models, with real-time response streaming.
+Technology
+Layer	Technology
+Frontend	React
+Language	JavaScript
+Build Tool	Vite
+AI Runtime	Ollama
+Communication	Local API
+Response Model	Streaming
+Architecture
+┌─────────────────────────┐
+│        REACT UI         │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│       /api/chat         │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│         OLLAMA          │
+│      LOCAL LLM MODEL    │
+└────────────┬────────────┘
+             │
+             │ Stream
+             ▼
+┌─────────────────────────┐
+│        REACT UI         │
+└─────────────────────────┘
+Engineering Scope
+Built a React-based conversational interface.
+Connected the application to locally running Ollama models.
+Implemented streamed responses.
+Designed browser-to-local-model communication.
+Focused on local execution and privacy.
+Created a lightweight developer-friendly interface.
+Key Areas
 
-| Category | Details |
-|---|---|
-| **Stack** | React • JavaScript • Ollama • Vite |
-| **Scale** | Local AI application |
-| **Performance** | Streaming model responses for responsive interaction |
-| **Security** | Local-first architecture without requiring cloud model APIs |
-| **Impact** | Provides a private interface for interacting with locally running LLMs |
-| **Repository** | [View Repository](https://github.com/prashanth-shetteppanavar/local-llm-chat) |
+React JavaScript Ollama Vite Local LLM Streaming
 
-### Engineering Scope
+Repository
 
-- Built a React interface for local LLM interaction.
-- Integrated directly with locally running Ollama models.
-- Implemented streaming responses through the `/api/chat` interface.
-- Designed the application around a browser-to-local-model workflow.
-- Focused on privacy and avoiding unnecessary external model dependencies.
+View Local AI Chat Repository →
 
 </details>
+🌐 Decentralized File Storage
+<details> <summary><strong>IPFS-Based Distributed File Storage System</strong></summary> <br/>
+Overview
 
-<details>
-<summary><strong>Decentralized File Storage</strong> | Distributed File Storage System</summary>
+A decentralized file storage system exploring distributed storage and retrieval using IPFS.
 
-<br/>
+The project investigates content-addressed storage as an alternative architectural approach to traditional centralized file storage.
 
-A decentralized file storage system designed around distributed file storage and retrieval using IPFS.
+Technology
+Layer	Technology
+Storage	IPFS
+Architecture	Decentralized
+Storage Model	Content Addressing
+Focus	File Storage & Retrieval
+Engineering Scope
+Explored decentralized storage concepts using IPFS.
+Worked with content-addressed files.
+Investigated distributed file retrieval.
+Explored alternatives to traditional centralized storage.
+Focused on understanding decentralized storage architecture.
+Architecture
+                         USER
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │   APPLICATION   │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │      IPFS       │
+                 └────────┬────────┘
+                          │
+                    ┌─────┴─────┐
+                    │           │
+                    ▼           ▼
+                 NODE A       NODE B
+                    │           │
+                    └─────┬─────┘
+                          │
+                          ▼
+                    CONTENT HASH
+Key Areas
 
-| Category | Details |
-|---|---|
-| **Stack** | IPFS • Distributed Storage |
-| **Scale** | Decentralized storage application |
-| **Performance** | Distributed content retrieval architecture |
-| **Security** | Content-addressed storage model |
-| **Impact** | Explores decentralized alternatives to traditional centralized file storage |
-| **Repository** | [View Repository](https://github.com/prashanth-shetteppanavar) |
+IPFS Decentralized Storage Content Addressing Distributed Systems
 
-### Engineering Scope
+Repository
 
-- Explored decentralized file storage using IPFS.
-- Designed the application around distributed content retrieval.
-- Worked with content-addressed storage concepts.
-- Investigated practical approaches to decentralized document storage.
+View Project Repository →
 
 </details>
+05 · EXPERIENCE
+Java Full Stack Developer Intern
+Dhee Coding Lab
 
----
+February 2026 – May 2026
 
-## Experience
+Worked on Java full-stack application development with emphasis on backend programming, database interaction, application architecture, debugging and maintainable code structure.
 
-### Java Full Stack Developer Intern | Dhee Coding Lab
+Responsibilities
+Built Java web application modules using Core Java, JDBC and MySQL.
+Applied DAO and MVC design patterns to structure application components.
+Developed backend components using Java Servlets.
+Worked with Spring Core and Spring MVC.
+Worked with Hibernate/JPA for data persistence.
+Used Maven for project builds and dependency management.
+Applied OOP principles and Java Collections Framework.
+Participated in debugging and code review activities.
+Identified and resolved application issues during development.
+Technology
 
-**February 2026 – May 2026**
+Java JDBC MySQL Servlets Spring Core Spring MVC
 
-Worked on Java full-stack application development with emphasis on backend programming, database interaction, application architecture, and debugging.
+Hibernate JPA Maven OOP Collections MVC DAO
 
-**Scope of Work**
+06 · ACHIEVEMENTS
+<div align="center">
+Recognition	Details
+🏆 Odoo × NMIT Hackathon 2025	Participated in a software development hackathon focused on practical problem solving
+🔥 LeetCode 50-Day Streak	Completed a 50-day coding consistency milestone
+⭐ HackerRank Java 3-Star	Achieved a 3-star Java rating
+</div>
+07 · CODING PROFILES
+<div align="center"> <a href="https://leetcode.com/u/prashanth_shetteppanavar/"> <img src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" /> </a>
 
-- Built Java web application modules using Core Java, JDBC and MySQL.
-- Applied DAO and MVC design patterns to structure application components.
-- Developed backend components using Servlets.
-- Worked with Spring Core, Spring MVC and Hibernate/JPA for application development and persistence.
-- Used Maven for project builds and dependency management.
-- Applied object-oriented programming principles and Java Collections.
-- Participated in debugging and code review activities to identify and resolve application issues.
+  
 
-**Skills**
+<a href="https://www.geeksforgeeks.org/profile/prashantshettecrfb"> <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /> </a>
 
-`Java` `JDBC` `MySQL` `Servlets` `Spring Core` `Spring MVC` `Hibernate` `JPA` `Maven` `OOP` `MVC` `DAO`
+  
 
----
-
-## Achievements
-
+<a href="YOUR_HACKERRANK_PROFILE_URL"> <img src="https://img.shields.io/badge/HackerRank-Profile-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /> </a> </div>
+08 · GITHUB ANALYTICS
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Odoo × NMIT Hackathon 2025** | Participated in a software development hackathon focused on solving practical problems |
-| **LeetCode 50-Day Streak** | Completed a 50-day LeetCode coding consistency milestone |
-| **HackerRank Java 3-Star** | Achieved a 3-star Java rating on HackerRank |
+<img src="https://github-readme-stats.vercel.app/api?username=prashanth-shetteppanavar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-shetteppanavar&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180" />
+
+<br/> <br/>
+
+<img src="https://streak-stats.demolab.com?user=prashanth-shetteppanavar&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" />
 
 </div>
-
----
-
-
-
-## Coding Profiles
-
+09 · GITHUB TROPHIES
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-3%20Star-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-111827?style=for-the-badge&logo=codechef&logoColor=5B4638" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=prashanth-shetteppanavar&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" width="92%" />
 
 </div>
-
----
-
-## GitHub Analytics
-
+10 · CONTRIBUTION ACTIVITY
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashanth-shetteppanavar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-shetteppanavar&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=prashanth-shetteppanavar&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanth-shetteppanavar&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" />
 
 </div>
-
----
-
-## GitHub Trophies
-
+11 · CONTRIBUTION SNAKE
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prashanth-shetteppanavar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%"/>
+<img src="https://raw.githubusercontent.com/prashanth-shetteppanavar/prashanth-shetteppanavar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
 
 </div>
+12 · CURRENT FOCUS
+profile:
+  role: Java Full Stack Developer
+  location: Bengaluru, India
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanth-shetteppanavar&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prashanth-shetteppanavar/prashanth-shetteppanavar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
+learning:
   - Spring Boot
   - REST API Development
   - Backend Architecture
   - Cloud Fundamentals
 
-Building:
-  - Practical Full-Stack Applications
+building:
+  - Full-Stack Applications
   - Java Backend Systems
   - Local AI Applications
-  - Developer-focused Tools
+  - Developer Tools
 
-Exploring:
+exploring:
   - Local LLM Applications
-  - AI-assisted Development
+  - AI-Assisted Development
   - Modern Backend Architecture
   - Scalable Software Engineering
 
-Open To:
-  - Java Developer Roles
-  - Java Full Stack Developer Roles
-  - Software Developer Roles
-  - Software Engineer Roles
+improving:
+  - Backend Development
+  - Database Design
+  - System Design Fundamentals
+  - Production-Oriented Development
+
+open_to:
+  - Java Developer
+  - Java Full Stack Developer
+  - Software Developer
+  - Software Engineer
+13 · DEVELOPMENT APPROACH
+<div align="center">
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                    BUILD WITH PURPOSE                   │
+│                                                          │
+│       PROBLEM → DESIGN → BUILD → TEST → IMPROVE         │
+│                                                          │
+│          SIMPLE SYSTEMS. USEFUL PRODUCTS.               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+</div>
+Principles
+Understand the problem before choosing the technology.
+Prefer maintainable code over unnecessary complexity.
+Build features that solve actual user problems.
+Learn the underlying concepts, not just framework syntax.
+Keep improving through projects and real implementation.
+14 · CONNECT
+<div align="center"> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EMAIL%20ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+ 
+
+<a href="https://wa.me/YOUR_WHATSAPP_NUMBER"> <img src="https://img.shields.io/badge/WhatsApp-MESSAGE%20ME-6D28D9?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+
+ 
+
+<a href="https://www.linkedin.com/in/prashanth-shetteppanavar-b680712a3/"> <img src="https://img.shields.io/badge/LinkedIn-CONNECT-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+ 
+
+<a href="https://prashanth-portfolio-plum.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-VISIT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div> <br/> <div align="center">
+
+Open to building meaningful software and growing with strong engineering teams.
+
+</div>
+<div align="center">
+BUILD • LEARN • SHIP
+<sub> Java · Spring · Hibernate · MySQL · React · Local AI </sub> <br/> <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,30:302B63,65:4C1D95,100:7C3AED&height=150&section=footer" width="100%" />
+
+</div> ```
